@@ -18,7 +18,7 @@ Download
 Burn the installer
 ------------------
 	For x86 architecture you can burn the ISO directly into a USB drive using
-	`etcher <https://etcher.io/>`_ or  dd linux utility::
+	`etcher <https://www.balena.io/etcher/>`_ or  dd linux utility::
 
 	$ sudo dd if=xxx.iso of=/dev/sdX bs=4096
 
